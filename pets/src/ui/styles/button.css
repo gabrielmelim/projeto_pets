@@ -1,0 +1,8 @@
+.btn-lista{
+    color: aliceblue !important;
+    background-color: blueviolet !important;   
+}
+
+.btn-lista:hover{
+    background-color: rgb(97, 4, 114) !important;
+}
